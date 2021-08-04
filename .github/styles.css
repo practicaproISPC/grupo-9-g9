@@ -1,0 +1,41 @@
+/* body */
+body {
+    background-color: #ebebf0;
+}
+
+/*Header*/
+.cabecera {
+    margin-top:3%;
+    margin-left: 50px;
+}
+
+.bandera {
+    margin-top:1%;
+    width: 120px;
+    border-radius:50%;
+}
+/* Navegacion */
+.navbar {
+    background-color: #37373f;
+    color: #fff;
+}
+/* Section */
+.article{
+    border: 1px solid black;
+}
+/* asafi */
+.aside {
+    border: 1px solid black;
+}
+.efemerides {
+    color: #007bff;
+}
+/*Footer*/
+.footer {
+    background-color: #37373f;
+    color: #fff;
+}
+.ispc {
+    border-radius:50%;
+    
+}
