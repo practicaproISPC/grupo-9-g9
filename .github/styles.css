@@ -8,7 +8,14 @@ body {
     margin-top:3%;
     margin-left: 50px;
 }
-
+.cuidadano-digital {
+    height: 100px;
+    background-color:#354052;
+}
+.linea-azul {
+    background-color:#2699fb;
+    height: 10px;
+}
 .bandera {
     margin-top:1%;
     width: 120px;
@@ -17,21 +24,13 @@ body {
 /* Navegacion */
 .navbar {
     background-color: #37373f;
-    color: #fff;
+    color: #01AAE3;
 }
-/* Section */
-.article{
-    border: 1px solid black;
-}
-/* asafi */
-.aside {
-    border: 1px solid black;
-}
-.efemerides {
-    color: #007bff;
-}
+
+
 /*Footer*/
 .footer {
+    padding-top: 10px;
     background-color: #37373f;
     color: #fff;
 }
