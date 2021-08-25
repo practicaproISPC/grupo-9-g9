@@ -76,5 +76,31 @@ body {
 }
 .ispc {
     border-radius:50%;
+}
+.copy{
+    background: #101010;
+    color: #c7c7c7;
+    text-align:center;
     
+}
+
+.copyright a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.copy a:hover{
+    color: #c7c7c7;
+}
+
+.information a{
+    text-decoration: none;
+    color: #f9f9f9;
+}
+
+
+
+.information a:hover{
+    color: #c7c7c7;
 }
