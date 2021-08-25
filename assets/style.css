@@ -98,9 +98,10 @@ body {
     text-decoration: none;
     color: #f9f9f9;
 }
-
-
-
 .information a:hover{
     color: #c7c7c7;
+}
+/* Inicio */
+.cerrar:hover{
+    background: #dc3545;
 }
