@@ -1,0 +1,22 @@
+{
+  "name": "grupo-9-g9",
+  "version": "1.0.0",
+  "description": "Especificación de requisitos de software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/practicaproISPC/grupo-9-g9.git"
+  },
+  "author": "gustavo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/practicaproISPC/grupo-9-g9/issues"
+  },
+  "homepage": "https://github.com/practicaproISPC/grupo-9-g9#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
