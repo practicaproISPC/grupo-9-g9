@@ -1,3 +1,8 @@
+/* Fuentes google
+font-family: 'Roboto', sans-serif;
+font-family: 'Shadows Into Light', cursive;
+*/
+
 /* body */
 body {
     background-color: #ebebf0;
@@ -16,6 +21,11 @@ body {
     background-color:#2699fb;
     height: 10px;
 }
+/*Contacto */
+.nosotros {
+    color:#2699fb;
+}
+
 .bandera {
     margin-top:1%;
     width: 120px;
