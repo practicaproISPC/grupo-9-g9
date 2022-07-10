@@ -1,0 +1,50 @@
+/* Fuentes google
+font-family: 'Roboto', sans-serif;
+font-family: 'Shadows Into Light', cursive;
+*/
+
+/* body */
+body {
+    background-color: #ebebf0;
+}
+
+/*Header*/
+.cabecera {
+    margin-top:3%;
+    margin-left: 50px;
+}
+.cuidadano-digital {
+    height: 100px;
+    background-color:#354052;
+}
+.linea-azul {
+    background-color:#2699fb;
+    height: 10px;
+}
+/*Contacto */
+.nosotros {
+    color:#2699fb;
+}
+
+.bandera {
+    margin-top:1%;
+    width: 120px;
+    border-radius:50%;
+}
+/* Navegacion */
+.navbar {
+    background-color: #37373f;
+    color: #01AAE3;
+}
+
+
+/*Footer*/
+.footer {
+    padding-top: 10px;
+    background-color: #37373f;
+    color: #fff;
+}
+.ispc {
+    border-radius:50%;
+    
+}
